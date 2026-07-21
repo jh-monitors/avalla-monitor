@@ -1,0 +1,20 @@
+{
+  "storeUrl": "https://www.avalla.com",
+  "collectionJsonUrl": "https://www.avalla.com/collections/refurbished-air-conditioners/products.json?limit=250",
+  "includeKeywords": [
+    "air conditioner",
+    "air conditioning",
+    "portable ac",
+    "refurbished avalla s"
+  ],
+  "excludeKeywords": [
+    "window kit",
+    "hose",
+    "filter",
+    "accessory",
+    "connector",
+    "remote control",
+    "replacement part",
+    "cover"
+  ]
+}

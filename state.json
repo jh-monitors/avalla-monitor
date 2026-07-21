@@ -1,5 +1,14 @@
 {
-  "initialised": false,
-  "lastCheckedUtc": null,
-  "products": {}
+  "initialised": true,
+  "lastCheckedUtc": "2026-07-21T20:24:35.196324+00:00",
+  "products": {
+    "7684895342645": {
+      "id": "7684895342645",
+      "title": "Refurbished Avalla S-80 4-in-1 Portable 12L Dehumidifier & Air Conditioner Combo for Medium Rooms",
+      "handle": "refurbished-avalla-s-80-air-conditioner-dehumidifier",
+      "url": "https://www.avalla.com/products/refurbished-avalla-s-80-air-conditioner-dehumidifier",
+      "available": false,
+      "price": "£199.99"
+    }
+  }
 }
